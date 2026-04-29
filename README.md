@@ -4,15 +4,18 @@ Personal [Claude Code](https://claude.ai/code) user configuration, shared across
 
 ## Contents
 
-| File | Purpose |
+| Path | Purpose |
 |------|---------|
 | `CLAUDE.md` | User-level instructions loaded by Claude Code in every project |
+| `commands/` | Custom slash commands (skills) available in every session |
+| `commands/grill-me.md` | `/grill-me` — relentlessly interviews you about a plan, resolving design decisions branch-by-branch |
 
 ## Setup on a new machine
 
 ```bash
 git clone https://github.com/patrickjdarrow/dot-claude ~/git/dot-claude
 ln -s ~/git/dot-claude/CLAUDE.md ~/.claude/CLAUDE.md
+ln -s ~/git/dot-claude/commands ~/.claude/commands
 ```
 
 ## Keeping it updated
