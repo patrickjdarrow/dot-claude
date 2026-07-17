@@ -15,7 +15,7 @@ Personal [Claude Code](https://claude.ai/code) user configuration, shared across
 ```bash
 git clone https://github.com/patrickjdarrow/dot-claude ~/git/dot-claude
 ln -s ~/git/dot-claude/CLAUDE.md ~/.claude/CLAUDE.md
-ln -s ~/git/dot-claude/skills ~/.claude/skills
+ln -s ~/git/dot-claude/skills ~/.claude/
 ```
 
 ## Keeping it updated
