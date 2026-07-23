@@ -9,4 +9,4 @@ Ask the questions one at a time.
 
 If a question can be answered by exploring the codebase, explore the codebase instead.
 
-At the end, propose a plan. Summarize reject branches of the design tree. Include items which were determined to be out of scope.
+At the end, propose a test-driven development plan. Summarize reject branches of the design tree including items which were determined to be out of scope.
