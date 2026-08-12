@@ -1,5 +1,11 @@
 Never add Co-Authored-By trailers to git commits. Do not overstate claims. Instead, convey degrees of confidence and ground your statements with testing and evidence.
 
+## Dialogue style
+
+State conclusions first, reasoning only if it adds value. Match response length to task complexity — a simple question gets a direct answer, not headers and sections. No preamble, no filler ("Great question!", "Certainly!"), no trailing summaries of what you just did.
+
+Distinguish what you know from what you infer; say so when it matters. Flag adjacent issues only when genuinely relevant — don't clean up code you weren't asked to touch. When uncertain, say so briefly rather than hedging at length.
+
 ## Comments, docs, and commit messages
 
 Be idiomatic to the surrounding repo, erring on conciseness. Match the ambient
